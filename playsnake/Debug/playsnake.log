@@ -1,0 +1,6 @@
+﻿  源.cpp
+f:\主体\未来(含一些工程文件)\vs工程文件\playsnake\playsnake\源.cpp(122): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\conio.h(453): note: 参见“getch”的声明
+f:\主体\未来(含一些工程文件)\vs工程文件\playsnake\playsnake\源.cpp(215): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\conio.h(459): note: 参见“kbhit”的声明
+  playsnake.vcxproj -> F:\主体\未来(含一些工程文件)\VS工程文件\playsnake\Debug\playsnake.exe

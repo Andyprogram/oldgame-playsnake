@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.705
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "playsnake", "playsnake\playsnake.vcxproj", "{EA222410-6575-468F-BC2C-03F55D3FE143}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "贪吃蛇", "..\贪吃蛇\贪吃蛇.vdproj", "{E61F2C94-FEC6-452E-9389-C9F568D2C2CF}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup_snake", "Setup_snake\Setup_snake.vdproj", "{AD671A4C-3E42-4C1D-8EEC-65335844D999}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA222410-6575-468F-BC2C-03F55D3FE143}.Debug|x64.ActiveCfg = Debug|x64
+		{EA222410-6575-468F-BC2C-03F55D3FE143}.Debug|x64.Build.0 = Debug|x64
+		{EA222410-6575-468F-BC2C-03F55D3FE143}.Debug|x86.ActiveCfg = Debug|Win32
+		{EA222410-6575-468F-BC2C-03F55D3FE143}.Debug|x86.Build.0 = Debug|Win32
+		{EA222410-6575-468F-BC2C-03F55D3FE143}.Release|x64.ActiveCfg = Release|x64
+		{EA222410-6575-468F-BC2C-03F55D3FE143}.Release|x64.Build.0 = Release|x64
+		{EA222410-6575-468F-BC2C-03F55D3FE143}.Release|x86.ActiveCfg = Release|Win32
+		{EA222410-6575-468F-BC2C-03F55D3FE143}.Release|x86.Build.0 = Release|Win32
+		{E61F2C94-FEC6-452E-9389-C9F568D2C2CF}.Debug|x64.ActiveCfg = Debug
+		{E61F2C94-FEC6-452E-9389-C9F568D2C2CF}.Debug|x86.ActiveCfg = Debug
+		{E61F2C94-FEC6-452E-9389-C9F568D2C2CF}.Release|x64.ActiveCfg = Release
+		{E61F2C94-FEC6-452E-9389-C9F568D2C2CF}.Release|x86.ActiveCfg = Release
+		{AD671A4C-3E42-4C1D-8EEC-65335844D999}.Debug|x64.ActiveCfg = Debug
+		{AD671A4C-3E42-4C1D-8EEC-65335844D999}.Debug|x86.ActiveCfg = Debug
+		{AD671A4C-3E42-4C1D-8EEC-65335844D999}.Release|x64.ActiveCfg = Release
+		{AD671A4C-3E42-4C1D-8EEC-65335844D999}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {189C0F83-997B-4A6D-84F5-BA6D35118E57}
+	EndGlobalSection
+EndGlobal
